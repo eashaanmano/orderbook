@@ -1,0 +1,8 @@
+build*/
+data/*.obmd
+data/*.obcmd
+data/*.csv
+data/*.png
+perf.data*
+compile_commands.json
+__pycache__/
